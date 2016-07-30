@@ -1,7 +1,7 @@
 'use strict'
 /* global describe, it */
 const assert = require('assert')
-const types = require('../')
+const types = require('../src')
 
 describe('unit tests', function () {
   describe('String', function () {

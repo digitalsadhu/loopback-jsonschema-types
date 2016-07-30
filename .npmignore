@@ -2,3 +2,7 @@ LICENSE
 .gitignore
 test/**/*
 test
+src
+.travis.yml
+.editorconfig
+testem.yml

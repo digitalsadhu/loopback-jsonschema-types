@@ -1,7 +1,7 @@
 'use strict'
 /* global describe, it, beforeEach */
 const assert = require('assert')
-const types = require('../')
+const types = require('../src')
 const loopback = require('loopback')
 let app, Post, Author
 
