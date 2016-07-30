@@ -29,16 +29,22 @@ jsonschema object. https://docs.strongloop.com/display/public/LB/LoopBack+types#
 A simple string representation
 ```js
 types('string')
+
+// -> { type: 'string' }
 ```
 
 A native javascript type
 ```js
 types(String)
+
+// -> { type: 'string' }
 ```
 
-using the type property (see loopback docs)
+Using the type property (see loopback docs)
 ```js
 types({type: String})
+
+// -> { type: 'string' }
 ```
 
 #### arrays
@@ -46,6 +52,8 @@ types({type: String})
 types([String])
 types(['String'])
 types({type: [String]})
+
+// -> { type: 'array', items: { type: 'string' } }
 ```
 
 ## Additional information
