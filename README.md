@@ -6,7 +6,7 @@ Simple module mapping loopbacks built in types to jsonschema types
 
 [![Media Suite](http://mediasuite.co.nz/ms-badge.png)](http://mediasuite.co.nz)
 
-[![Build Status](https://travis-ci.org/mediasuitenz/loopback-jsonschema-types.svg)](https://travis-ci.org/digitalsadhu/loopback-jsonschema-types)
+[![Build Status](https://travis-ci.org/digitalsadhu/loopback-jsonschema-types.svg?branch=master)](https://travis-ci.org/digitalsadhu/loopback-jsonschema-types)
 
 ## Installation
 
