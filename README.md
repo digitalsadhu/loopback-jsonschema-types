@@ -18,7 +18,7 @@ npm install loopback-jsonschema-types --save
 
 Require the module
 ```js
-const types = require('loopback-jsonschema-types)
+const types = require('loopback-jsonschema-types')
 ```
 
 Then just pass any valid loopback type definition to the module to get back a
