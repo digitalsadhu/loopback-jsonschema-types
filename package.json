@@ -1,7 +1,7 @@
 {
   "name": "loopback-jsonschema-types",
   "description": "Simple module mapping loopbacks built in types to jsonschema types",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "license": "MIT",
   "main": "./dist/index.js",
   "repository": {
